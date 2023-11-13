@@ -1,0 +1,20 @@
+{
+    "headerPrice":"Price",
+    "headerLoss":"Worst case",
+    "headerForecast":"Risk Forecast",
+    "headerMessage":"Long-term forecasting maybe less accurate",
+    "headerIndex":"Confidence Level",
+    "chartRisk":"Risk (RW Index)",
+    "chartEwi":"Risk (EW Index)",
+    "chartPrice":"Price",
+    "chartHighestPrice":"Highest Price",
+    "chartLowestPrice":"Lowest Price",
+    "chartDownload":"Download CSV",
+    "tableLoss":"Worst case",
+    "more":"More",
+    "fold":"Fold",
+    "corrTitle" : "Correlated Assets",
+    "corrExplain": "Top 20 assets with a high correlation of return",
+    "negCorrTitle" : "Hedge Assets",
+    "negCorrExplain": "Top 20 assets with a high negative correlation of return"
+}

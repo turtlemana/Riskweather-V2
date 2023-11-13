@@ -1,0 +1,20 @@
+{
+    "headerTitle":"투자정보",
+    "typeTitle":"분류",
+    "risklevelTitle":"리스크 수준",
+    "locationTitle":"국가",
+    "exchangeTitle":"거래소",
+    "sectorTitle":"분야",
+    "searchName":"자산의 이름을 검색하세요",
+    "viewsTitle":"표시",
+    "allReset":"초기화",
+    "tableName": "이름",
+    "tableRisk": "리스크 수준",
+    "tableLoss" : "최악의 경우",
+    "tablePrice": "가격",
+    "tablePriceChange":"가격 변화",
+    "tableChart": "리스크 차트",
+    "tableWeather":"날씨",
+    "filterButton" :"필터",
+    "addFilterButton":"적용하기"
+}

@@ -1,0 +1,97 @@
+{
+    "loginWelcome":"반갑습니다!",
+    "loginExplain":"이메일 혹은 소셜미디어 계정으로 로그인하세요",
+    "loginContinue1":"",
+    "loginContinue2":"로 시작하기",
+    "assetSelectTitle1":"관심자산을",
+    "assetSelectTitle2":"선택하세요",
+    "assetSelectExplain1":"리스크 웨더가 당신의 위험 선호 성향을",
+    "assetSelectExplain2":"선택하신 자산을 기준으로 측정해드리겠습니다.",
+    "assetSelectExplain3":"최대 10개 선택 가능합니다.",
+
+    "assetSkip": "건너뛰기",
+    "assetFinish":"선택 완료",
+    "modalWelcome1":"리스크 웨더에 가입하신 것을 환영합니다",
+    "modalWelcome2":"위험성향 측정이 완료됐습니다",
+    "modalSkipTitle":"관심자산을 선택하지 않았습니다",
+    "modalExplain1":"포트폴리오 페이지에서",
+    "modalExplain2":"위험성향 측정을 다시 하실 수 있습니다",
+    
+    "agreements2":"개인정보 수집•이용에 동의합니다",
+    "agreements":"개인정보처리방침에 따라 ",
+    "modalStart":"확인",
+    "resultCalculating":"위험성향을 측정하는 중입니다...",
+    "modalSecTitle":"가장 많이 사용하는 증권사를 선택하세요",
+    "modalSecExplain1":"해당 정보는 마케팅 목적 또는",  
+    "modalSecExplain2":"서비스 개선을 위해 활용됩니다.",
+    "modalNext":"다음",
+
+    "signUpLink":"아직 계정이 없으신가요?",
+    "signUpButton":"회원가입하기",
+
+    
+
+    "signUpWelcome":"무료로 시작하기",
+    "signUpExplain":"포트폴리오 리스크를 무료로 측정해 보세요",
+
+    "signUpComplete":"회원가입",
+    "emailConfirmSent":"입력하신 이메일로 인증번호가 발신됐습니다",
+    "existError":"이메일 계정이 이미 존재합니다",
+
+    "confirm":"확인",
+
+
+    "email":"이메일",
+    "password":"비밀번호",
+    "passwordConfirm":"비밀번호 확인",
+    "name":"이름",
+
+    "authenticate":"인증",
+    "authenticateConfirm":"확인",
+    "inputValidationError" : "회원가입 양식을 확인해주시길 바랍니다",
+
+
+    "emailInvalid": "이메일 형식을 확인해주세요",
+    "passwordLengthError": "비밀번호는 8자리 이상이어야 합니다",
+    "passwordMismatchError": "비밀번호가 일치하지 않습니다",
+    "policyNotCheckedError": "정책에 동의해주세요",
+    "fieldsMissingError": "모든 필드를 채워주세요",
+
+    "policy":"(필수) 서비스 이용약관 및 개인정보처리방침을 확인하였고, 이에 동의합니다",
+    "alarm":"혜택 알림 수신에 동의합니다",
+    "or":"또는",
+    "signUpSuccess": "회원가입에 성공했습니다!",
+    
+    "loginButton":"로그인",
+    "findPassword" : "비밀번호 찾기",
+
+    "checkVerification" : "인증번호를 확인해주시길 바랍니다",
+    "resendEmail" : "인증 메일 다시 보내기",
+    "reEnterEmail" : "이메일 다시 입력하기",
+
+
+
+    "emailVerifyPlaceHolder": "인증코드를 입력하세요",
+    "namePlaceHolder": "이름",
+    "emailVerified" : "이메일 인증이 완료됐습니다",
+
+    
+    "emailWarning":"이메일 형식을 확인해주세요",
+    "passwordWarning": "8자 이상 20자 이하로 입력해주세요",
+    "nameWarning":"2자 이상 20자 이하로 입력해주세요",
+    "passwordChange": "비밀번호 변경",
+
+    "passwordChangeSuccess" : "비밀번호 변경에 성공했습니다"
+
+
+    
+
+    
+
+
+
+    
+
+
+    
+}

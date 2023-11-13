@@ -1,0 +1,82 @@
+{
+    "loginWelcome":"Welcome!",
+    "loginExplain":"Please log in on your email or social media account",
+    "loginContinue1":"Continue with",
+    "loginContinue2":"",
+    "assetSelectTitle1":"Choose Assets",
+    "assetSelectTitle2":"You're interested in",
+    "assetSelectExplain1":"Please select up to 10 assets",
+    "assetSelectExplain2":"Riskweather will measure your risk tolerance",
+    "assetSelectExplain3":"based on the chosen assets",
+    "assetSkip": "Skip",
+    "assetFinish":"Finish selecting",
+    "modalSkipTitle":"You didn't choose any assets",
+    "modalWelcome1":"Welcome to Riskweather",
+    "modalWelcome2":"We have finished measuring",
+    "modalExplain1":"You can re-test your risk",
+    "modalExplain2":"tolerance on portfolio page",
+    "modalStart":"Confirm",
+    "agreements":"I agree to the collection and the use of personal information, following the ",
+    "agreements2":"policy",
+    "resultCalculating":"Measuring your risk tolerance...",
+    "modalSecTitle":"Choose securities company you use most",
+    "modalSecExplain1":"This information is only used for marketing,",
+    "modalSecExplain2":"and service improvement purposes.",
+    "modalNext":"Next",
+
+    "signUpLink":"Don't have a riskweather account?",
+    "signUpButton":"Sign up now!",
+
+    "signUpWelcome":"Start Free",
+    "signUpExplain":"Check your portfolio risk for free",
+
+    "signUpComplete":"Sign up"
+    ,
+    "emailConfirmSent":"Verification number has sent to your email",
+    "existError":"Your email already exists",
+    "confirm":"Confirm",
+
+    "email":"Email",
+    "password":"Password",
+    "passwordConfirm":"Password Confirm",
+    "name":"Name",
+
+    "emailInvalid": "Please check your email format",
+    "passwordLengthError": "Your password must be longer than 8 characters",
+    "passwordMismatchError": "Your password doesn't match with password confirm",
+    "policyNotCheckedError": "Please check the policy agreement",
+    "fieldsMissingError": "Please fill out every form",
+
+    "authenticate":"Auth",
+    "authenticateConfirm":"Confirm",
+    "inputValidationError" : "Please fill your input correctly",
+    "policy":"(required) I accept the Terms of Service and have read the Privacy Notice",
+    "alarm":"I accept to receive benefit alerts",
+    "or":"or",
+    "signUpSuccess": "Your account has created!",
+    
+    "loginButton":"Login",
+    "findPassword" : "Forgot your password?",
+
+    "checkVerification" : "Please check your authentication code",
+    "resendEmail" : "resend authentication code",
+    "reEnterEmail" : "change email",
+
+    "emailVerifyPlaceHolder": "Enter Code",
+    "namePlaceHolder": "Name",
+    "sendVerify":"Please authenticate your email",
+    "emailVerified" : "Email verification completed",
+
+    "emailWarning":"Please check your email format",
+    "passwordWarning": "Password length must be 8 to 20 characters",
+    "nameWarning":"Name length must be 2 to 20 characters",
+    "passwordChange": "Change password",
+    "passwordChangeSuccess" : "Successfully changed your password"
+
+
+
+    
+
+
+    
+}

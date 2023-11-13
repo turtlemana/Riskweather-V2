@@ -1,0 +1,11 @@
+{
+    "headerHome" : "홈 화면",
+    "headerExplore" : "탐색하기",
+    "headerLearn" : "배우기",
+    "headerMembership" : "맴버십",
+    "headerSearch" : "자산의 이름을 검색하세요",
+    "headerSignin" : "로그인",
+    "headerPortfolio" : "포트폴리오",
+    "headerContact" : "문의하기",
+    "headerLogout" : "로그아웃"
+}

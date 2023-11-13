@@ -1,0 +1,60 @@
+{
+    "portfolioCustomerService":"고객 센터",
+    "kakaoTalk": "카카오톡 1:1 문의",
+    "headerTolerance": "위험 성향",
+    "headerInterested":"관심 자산",
+    "headerRetest":"다시하기",
+    "portfolioTitle":"포트폴리오",
+    "portfolioAmount":"총 자산",
+    "portfolioLoss" :"최악의 경우",
+    "portfolioLevel" :"리스크 수준",
+
+    "assetTitle":"내 자산",
+    "assetAdd":"자산 추가하기",
+    "noAssets":"포트폴리오를 구성할 자산이 추가되지 않았습니다",
+    "noAssets2":"리스크 측정을 위해 자산을 추가해주시길 바랍니다",
+    "tableName":"이름",
+    "tableQuantity":"수량",
+    "tablePrice":"가격",
+    "tableMore":"더 보기",
+    "tableFold":"접기",
+    "tableLoss":"최악의 경우",
+    "tableRisk":"리스크 수준",
+    "tableWeather":"날씨",
+    "search":"자산의 이름을 검색하세요",
+    "profileTitle":"프로필",
+    "profileName":"닉네임",
+    "profileSaveBtn":"저장하기",
+    "profileDelete":"계정 삭제",
+    "EditAssetsName":"이름",
+    "EditAssetsQty":"수량",
+    "MobileEditAssetsQty":"수량",
+    "EditAssetsCancel":"취소하기",
+    "EditAssetsSave":"저장하기",
+    "assetFinish":"선택 완료",
+
+    "MobileEditAssetsCancel":"취소",
+    "MobileEditAssetsSave":"저장",
+
+    
+
+    "refreshModalTitle":"포트폴리오 리스크를 다시 측정 하시겠습니까?",
+    "refreshModalExplain1":"포트폴리오의 리스크를 최신 데이터",
+    "refreshModalExplain2":"기반으로 다시 측정하겠습니까?",
+    "refreshModalSave":"갱신하기",
+    "refreshModalCancel":"취소하기",
+
+    "deleteModalTitle":"포트폴리오 삭제하기",
+    "deleteModalExplain1":"포트폴리오 정보를",
+    "deleteModalExplain2":"삭제하시겠습니까?",
+    "deleteModalSave":"삭제하기",
+    "deleteModalCancel":"취소하기",
+
+    "deleteExplain1":"정말 리스크 웨더 계정을",
+    "deleteExplain2":"삭제하시겠습니까?",
+    "deleteExplain3":"모든 데이터는 삭제됩니다",
+    "deleteCancel":"취소하기",
+    "delete":"삭제하기",
+    "resultCalculating":"리스크를 측정하는 중입니다..."
+
+}

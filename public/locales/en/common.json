@@ -1,0 +1,11 @@
+{
+    "headerHome" : "Home",
+    "headerExplore" : "Explore",
+    "headerLearn" : "Learn",
+    "headerMembership" : "Membership",
+    "headerSearch" : "Search",
+    "headerSignin" : "Sign In",
+    "headerPortfolio" : "My Portfolio",
+    "headerContact" : "Contact",
+    "headerLogout" : "Log out"
+}

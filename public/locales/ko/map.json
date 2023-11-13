@@ -1,0 +1,21 @@
+{
+    "headerTitle": "세계 모든 자산의 리스크를 한 번에",
+    "mobileTitle1":"세계 모든 자산의",
+    "mobileTitle2":"리스크를 한 번에",
+    "mobileMapButton": "세계 리스크 지도 확인하기",
+    "mapTitle": "세계 리스크 지도",
+    "nowTrendingTitle": "거래대금 상위",
+    "nowTrendingButton1":"더 보기",
+    "nowTrendingButton2":"접기",
+    "tableName":"이름",
+    "tableRisk":"리스크",
+    "tableLoss":"최악의 경우",
+    "tableChart":"리스크 차트",
+    "tableWeather":"날씨",
+    "goBack" :"돌아가기",
+    "goUp":"",
+    "goDown":"",
+
+    "riskLevelTitle": "리스크 레벨"
+
+  }

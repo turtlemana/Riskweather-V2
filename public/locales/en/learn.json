@@ -1,0 +1,67 @@
+{
+    "learnHeader":"How to use Risk weather",
+    "learnWelcome":"Welcome to Risk weather!",
+    "learnHeaderContent1":"Risk weather measures the risks of various digital assets and show them like a weather forecast.",
+    "learnHeaderContent2":"To intuitively understand the risks of my assets, let's learn about Risk weather's representation.",
+    "learnHeaderWarning":"Securities investment must be made at one's own discretion and responsibility.",
+
+    "info1":"Provide easy-to-understand RISK information for ordinary investors",
+    "info2":"Weather forecast for danger​",
+    "info3":"The difference between normal-based risk and",
+    "info4": " NTS-ARMA-GARCH-based risk is referred to as “RW Index”.",
+    "info5":"As the RW Index grows, so does the risk in the market.",
+    "info6":"In other words, the RW Index acts like a weather forecast for future risks.",
+    "info7":"Risk Weather measures the RW Index risk of asset",
+    "info8":"and expresses future risks by weather like weather forecast.",
+    "info9":"Weather information allows investors to understand how the market is changing and respond quickly.", 
+
+    "model1":"Risk weather's RISK model accuracy",
+    "model2":"Traditional risk measurements are based on the assumption that return on asset is a normal distribution.",
+    "model3":"However, In the real world, the empirical distribution has more frequent at tails than in the normal distribution.",
+    "model4":"This creates huge gap between the predicted and actual risks,",
+    "model5":"which cause risk management failures, including the “Subprime mortgage crisis”",
+    "model6":"In this service, NTS-ARMA-GARCH model was used to",
+    "model7":"model the distribution reflecting the Fat-Tail structure. ",
+    "model8":"This give you more accurate risk",
+    "model9":"which better reflects real world.",
+
+    "ptf1":"Effcetive Asset Management",
+    "ptf2":"Manage Portfolio RISK Management​",
+    "ptf3":"Investors can form portfolio that includes Crypto, Stock and Index, and receive risk information about the portfolio as well as individual assets.",
+    "ptf8":"The portfolio price is updated every hour based on the exchange rate of major currencies (the trading base rate),",
+    "ptf9":"Users can keep their portfolio's risks up-to-date through the refresh button.",
+    "ptf4":"We are also currently preparing a “Portfolio Rebalancing” service to manage assets to minimize portfolio risk. ",
+    "ptf5":"This allows Investors to effectively manage the risks of the entire portfolio of assets they are investing in.",
+    "ptf6":"Portfolio",
+    "ptf7":"Assets",
+
+    "prof1":"Investment propensity identification",
+    "prof2":"Investors can identify their investment propensity by selecting interesting assets",
+    "prof3":"It provides information about investor’s propensity by calculating the risk of portfolio of interesting assets selected by the investors. ",
+    "prof4":"Investors can identify their investment propensity and develop appropriate investment strategies just by selecting interesting assets.",
+
+    "risk1":"Risk",
+    "risk2":"The yield distribution of asset has similar shape to the normal distribution.",
+    "risk3":"The return can be + or – around the expected return of 0, and the larger the size, the lower the probability of occurrence.",
+    "risk4":"The expected maximum loss at the left end of distribution with 99% confidence level, is called CVaR.",
+    "risk5":"Risk weather provides CVaR as an asset risk to provide risk information for assets and portfolios.",
+
+    "riskInfo1":"Provide intuitive RISK-related information​",
+    "riskInfo2":"You can intuitively grasp risk information about 4000 assets, including stocks and cryptos from around the world.",
+    "riskInfo3":"Provide the maximum loss that can occur in one day as",
+    "riskInfo4":"“Worst case”",
+    "riskInfo5":"for an easy way to view.",
+    "riskInfo6":"It also provides an intrinsic risk rating for each asset by comparing the risk distribution across 4000 assets with the risk for a particular asset.",
+    "riskInfo7":"The risk rating of individual asset gives investors quick, at-a-glance view of the asset’s risk characteristics.",
+
+    "riskImp1":"The importance of Risk",
+    "riskImp2":"If you have asset A with 10% return and asset B with 7% return,",
+    "riskImp3":"you’ll mostly invest in A.",
+    "riskImp4":"However, If you have asset A that can lose up to 90% with 10% return and asset B that can lose up to 50% with 7% return, It is reasonable to invest in B.",
+    "riskImp5":"Like this, the risk of asset is as important as the asset return.",
+    "riskImp6":"However, it is not easy for ordinary investors to get information about risk.",
+    "riskImp7":"Risk weather delivers information about risk of asset to investors quickly and easily.",
+
+    "weatherCard":"Weather Card"
+
+}

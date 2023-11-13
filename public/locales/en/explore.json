@@ -1,0 +1,24 @@
+{
+    "headerTitle":"Explore",
+    "typeTitle":"Type",
+    "risklevelTitle":"Risk Level",
+    "locationTitle":"Location",
+    "exchangeTitle":"Exchange",
+    "sectorTitle":"Sector",
+    "searchName":"Search Name",
+    "viewsTitle":"Views",
+    "allReset":"All Reset",
+    "tableName": "Name",
+    "tableRisk": "Risk Level",
+    "tableLoss" : "Worst case",
+    "tablePrice": "Price",
+    "tablePriceChange":"Price change",
+    "tableChart": "Risk chart",
+    "tableWeather":"Weather",
+    "filterButton" :"Filter",
+    "addFilterButton":"Add Filter"
+}
+
+
+
+
